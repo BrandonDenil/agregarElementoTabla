@@ -1,0 +1,52 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+header{
+	background-color: #1781AD;
+	color: white;
+	padding: 2em;
+	text-align: center;
+	font-family: Times, Times New Roman, serif;
+	margin-bottom: 2em;
+}
+
+.control{
+	float: none;
+	text-align: center;
+
+}
+
+.sub_contenido{
+	
+	color: #1781AD;
+	border-color: #1781AD;
+	margin: 3em;
+	margin-bottom: 1em;
+	padding: 1em;
+	border-radius: 1em;
+	border-style: solid;
+	
+}
+#contenido div{
+	
+	background-color: #1781AD;
+	color:white;
+	margin-right:3em;
+	margin-left: 3em;
+	padding: 1em;
+	border-radius: 1em;
+	border-style: solid;
+	
+}
+
+#tarea_area{
+	margin: 0.5em;
+	background-color: #1781AD;
+	color: white;
+}
+
+.btnEliminar{
+	float: right;
+}
